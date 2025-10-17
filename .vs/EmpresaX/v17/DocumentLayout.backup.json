@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Auri\\Documents\\Visual Studio 2022\\EmpresaX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1B6F2-8A42-4D56-AAF7-D9AE65CA1424}|EmpresaX\\EmpresaX.csproj|C:\\Users\\Auri\\Documents\\Visual Studio 2022\\EmpresaX\\empresax\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF1B6F2-8A42-4D56-AAF7-D9AE65CA1424}|EmpresaX\\EmpresaX.csproj|solutionrelative:empresax\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1B6F2-8A42-4D56-AAF7-D9AE65CA1424}|EmpresaX\\EmpresaX.csproj|C:\\Users\\Auri\\Documents\\Visual Studio 2022\\EmpresaX\\empresax\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBF1B6F2-8A42-4D56-AAF7-D9AE65CA1424}|EmpresaX\\EmpresaX.csproj|solutionrelative:empresax\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1B6F2-8A42-4D56-AAF7-D9AE65CA1424}|EmpresaX\\EmpresaX.csproj|C:\\Users\\Auri\\Documents\\Visual Studio 2022\\EmpresaX\\empresax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF1B6F2-8A42-4D56-AAF7-D9AE65CA1424}|EmpresaX\\EmpresaX.csproj|solutionrelative:empresax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmcliente.cs",
+              "DocumentMoniker": "C:\\Users\\Auri\\Documents\\Visual Studio 2022\\EmpresaX\\EmpresaX\\frmcliente.cs",
+              "RelativeDocumentMoniker": "EmpresaX\\frmcliente.cs",
+              "ToolTip": "C:\\Users\\Auri\\Documents\\Visual Studio 2022\\EmpresaX\\EmpresaX\\frmcliente.cs",
+              "RelativeToolTip": "EmpresaX\\frmcliente.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAQwGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:23:57.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmcliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Auri\\Documents\\Visual Studio 2022\\EmpresaX\\EmpresaX\\frmcliente.cs",
+              "RelativeDocumentMoniker": "EmpresaX\\frmcliente.cs",
+              "ToolTip": "C:\\Users\\Auri\\Documents\\Visual Studio 2022\\EmpresaX\\EmpresaX\\frmcliente.cs [Design]",
+              "RelativeToolTip": "EmpresaX\\frmcliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:06:16.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Auri\\Documents\\Visual Studio 2022\\EmpresaX\\EmpresaX\\Program.cs",
+              "RelativeDocumentMoniker": "EmpresaX\\Program.cs",
+              "ToolTip": "C:\\Users\\Auri\\Documents\\Visual Studio 2022\\EmpresaX\\EmpresaX\\Program.cs",
+              "RelativeToolTip": "EmpresaX\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T02:10:47.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
